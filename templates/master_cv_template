@@ -1,1 +1,350 @@
+# Master CV Template
 
+> This is the master version of your CV.
+>
+> Include all relevant information, projects, achievements, skills, certifications, and experiences.
+>
+> This document acts as the single source of truth for generating tailored CVs and job applications.
+
+---
+
+# Personal Information
+
+## Name
+
+[Full Name]
+
+## Current Title
+
+[Example: Data Engineer]
+
+## Location
+
+[City, Country]
+
+## Contact Information
+
+- Email:
+- Phone:
+- LinkedIn:
+- GitHub:
+
+---
+
+# Professional Summary
+
+Write a concise summary describing:
+
+- Who you are
+- Your primary area of expertise
+- Years of experience
+- Main technologies
+- Industries
+- Business value you create
+
+### Example
+
+Data Engineer with experience designing and developing modern cloud-based data platforms. Skilled in Azure, SQL, Python, ETL development, and analytics solutions. Experienced in translating business requirements into scalable data solutions that support reporting, decision-making, and operational efficiency.
+
+---
+
+# Core Competencies
+
+## Technical Skills
+
+- Skill
+- Skill
+- Skill
+
+### Example
+
+- SQL
+- Python
+- Azure
+- Power BI
+- Microsoft Fabric
+- Data Factory
+- DBT
+- Spark
+
+---
+
+## Data Engineering
+
+- ETL/ELT
+- Data Modeling
+- Data Warehousing
+- Data Quality
+- Data Integration
+
+---
+
+## Analytics & BI
+
+- Power BI
+- Reporting
+- Dashboard Development
+
+---
+
+## Methods & Ways of Working
+
+- Agile
+- Scrum
+- DevOps
+- CI/CD
+
+---
+
+# Professional Experience
+
+List experiences in reverse chronological order.
+
+---
+
+## Company Name
+
+### Role Title
+
+Start Date – End Date
+
+### Client / Project
+
+[Client Name]
+
+### Business Context
+
+Describe the purpose of the project.
+
+### Responsibilities
+
+- Responsibility
+- Responsibility
+- Responsibility
+
+### Deliverables
+
+- Deliverable
+- Deliverable
+
+### Technologies
+
+- Technology
+- Technology
+
+### Outcomes / Results
+
+If available, describe:
+
+- Improvements
+- Savings
+- Automation
+- Quality improvements
+- Business impact
+
+Examples:
+
+- Reduced manual effort by [X]
+- Improved data quality by [X]
+- Automated [process]
+
+---
+
+## Company Name
+
+### Role Title
+
+Start Date – End Date
+
+### Client / Project
+
+[Client Name]
+
+### Business Context
+
+[Description]
+
+### Responsibilities
+
+- Responsibility
+- Responsibility
+
+### Technologies
+
+- Technology
+- Technology
+
+### Outcomes / Results
+
+- Outcome
+- Outcome
+
+---
+
+# Key Projects
+
+Include projects that may not fit under a formal employment history section.
+
+---
+
+## Project Name
+
+### Goal
+
+What problem was solved?
+
+### Contribution
+
+What did you personally do?
+
+### Technologies
+
+- Technology
+- Technology
+
+### Outcome
+
+What was achieved?
+
+---
+
+# Certifications
+
+## Certification Name
+
+- Issuer
+- Year
+
+### Examples
+
+- DP-900 Azure Data Fundamentals
+- DP-700 Fabric Data Engineer Associate
+- AZ-900 Azure Fundamentals
+
+---
+
+# Education
+
+## Degree
+
+### University
+
+Start Year – End Year
+
+#### Description
+
+Brief summary of specialization and thesis work.
+
+---
+
+# Industry Experience
+
+List industries where you have worked.
+
+### Example
+
+- Forestry
+- Manufacturing
+- Retail
+- Public Sector
+- Healthcare
+- Finance
+
+---
+
+# Languages
+
+| Language | Proficiency |
+|-----------|-----------|
+| Swedish | Native |
+| English | Professional |
+
+---
+
+# Consultant Profile
+
+Describe yourself as a consultant.
+
+### Areas to Highlight
+
+- Stakeholder collaboration
+- Communication skills
+- Problem-solving
+- Delivery capability
+- Adaptability
+- Leadership experience
+
+### Example
+
+Experienced in working closely with business stakeholders, analysts, and technical teams to deliver data solutions that balance business value, technical quality, and long-term maintainability.
+
+---
+
+# Achievements
+
+Optional section.
+
+Examples:
+
+- Led migration initiative
+- Reduced development time
+- Improved data quality process
+- Established deployment standards
+- Built reusable frameworks
+
+---
+
+# Tailoring Notes
+
+This section is not intended for the final CV.
+
+Use it to track:
+
+## Strong Areas
+
+- Azure
+- SQL
+- Microsoft Fabric
+
+## Areas To Emphasize For Data Engineering Roles
+
+- ETL
+- Data Modeling
+- Automation
+
+## Areas To Emphasize For Analytics Roles
+
+- Power BI
+- Reporting
+- Stakeholder Collaboration
+
+## Areas To Emphasize For AI Roles
+
+- Machine Learning
+- Agentic AI
+- Python
+
+---
+
+# Usage
+
+This file can be used as input to:
+
+- review.md
+- feedback.md
+- rewrite.md
+- analyze.md
+
+Recommended workflow:
+
+Master CV
+↓
+Review
+↓
+Feedback
+↓
+Rewrite
+↓
+Analyze Against Assignment
+↓
+Tailored CV
