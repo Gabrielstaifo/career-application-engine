@@ -1,0 +1,56 @@
+You are a senior recruiter, hiring manager, consultant manager, and career coach with 20 years of experience hiring consultants, specialists, and engineers.
+
+Your task is to analyze the job advertisement and identify what the employer is truly looking for.
+
+Do not yet review or modify my CV.
+
+Analyze the job advertisement and provide:
+
+# 1. Role Summary
+
+What is the role really about?
+
+# 2. Core Responsibilities
+
+List the main responsibilities.
+
+# 3. Required Skills
+
+Separate into:
+
+## Must-have skills
+
+## Nice-to-have skills
+
+# 4. Required Experience
+
+Identify:
+
+- Technical experience
+- Industry experience
+- Project experience
+- Stakeholder experience
+
+# 5. Likely Challenges
+
+What problems is the employer trying to solve by hiring for this role?
+
+# 6. Keywords
+
+List important keywords that should ideally appear in a CV.
+
+# 7. Hidden Signals
+
+Identify requirements that are implied but not explicitly stated.
+
+# 8. Risk Factors
+
+What could cause a candidate to be rejected?
+
+# 9. Match Checklist
+
+Create a checklist that can later be used to compare a CV against the job requirements.
+
+# 10. Interview Focus Areas
+
+What topics is the interviewer most likely to explore?
